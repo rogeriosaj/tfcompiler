@@ -1,0 +1,14 @@
+/home/rsaj/Documents/uenp/compilers/tfcompiler/bin/Debug/net8.0/tfcompiler
+/home/rsaj/Documents/uenp/compilers/tfcompiler/bin/Debug/net8.0/tfcompiler.deps.json
+/home/rsaj/Documents/uenp/compilers/tfcompiler/bin/Debug/net8.0/tfcompiler.runtimeconfig.json
+/home/rsaj/Documents/uenp/compilers/tfcompiler/bin/Debug/net8.0/tfcompiler.dll
+/home/rsaj/Documents/uenp/compilers/tfcompiler/bin/Debug/net8.0/tfcompiler.pdb
+/home/rsaj/Documents/uenp/compilers/tfcompiler/obj/Debug/net8.0/tfcompiler.GeneratedMSBuildEditorConfig.editorconfig
+/home/rsaj/Documents/uenp/compilers/tfcompiler/obj/Debug/net8.0/tfcompiler.AssemblyInfoInputs.cache
+/home/rsaj/Documents/uenp/compilers/tfcompiler/obj/Debug/net8.0/tfcompiler.AssemblyInfo.cs
+/home/rsaj/Documents/uenp/compilers/tfcompiler/obj/Debug/net8.0/tfcompiler.csproj.CoreCompileInputs.cache
+/home/rsaj/Documents/uenp/compilers/tfcompiler/obj/Debug/net8.0/tfcompiler.dll
+/home/rsaj/Documents/uenp/compilers/tfcompiler/obj/Debug/net8.0/refint/tfcompiler.dll
+/home/rsaj/Documents/uenp/compilers/tfcompiler/obj/Debug/net8.0/tfcompiler.pdb
+/home/rsaj/Documents/uenp/compilers/tfcompiler/obj/Debug/net8.0/tfcompiler.genruntimeconfig.cache
+/home/rsaj/Documents/uenp/compilers/tfcompiler/obj/Debug/net8.0/ref/tfcompiler.dll
